@@ -4,6 +4,7 @@ import { UserSessions } from './user-sessions';
 import { SystemLogs } from './system-logs';
 import { ChatAnalytics } from './chat-analytics';
 import { BookingMetrics } from './booking-metrics';
+import { Icon } from '@iconify/react';
 
 export function AdminPanel() {
   return (
